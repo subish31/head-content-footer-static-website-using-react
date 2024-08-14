@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/subish31/head-content-footer-static-website-using-react/static/css/main.034f6bdb.chunk.css",
+    "main.js": "/subish31/head-content-footer-static-website-using-react/static/js/main.52f9380a.chunk.js",
+    "main.js.map": "/subish31/head-content-footer-static-website-using-react/static/js/main.52f9380a.chunk.js.map",
+    "runtime-main.js": "/subish31/head-content-footer-static-website-using-react/static/js/runtime-main.3e558c68.js",
+    "runtime-main.js.map": "/subish31/head-content-footer-static-website-using-react/static/js/runtime-main.3e558c68.js.map",
+    "static/js/2.44e7fc68.chunk.js": "/subish31/head-content-footer-static-website-using-react/static/js/2.44e7fc68.chunk.js",
+    "static/js/2.44e7fc68.chunk.js.map": "/subish31/head-content-footer-static-website-using-react/static/js/2.44e7fc68.chunk.js.map",
+    "index.html": "/subish31/head-content-footer-static-website-using-react/index.html",
+    "precache-manifest.f6eb003379d55b6e26814cd5a2b67dfd.js": "/subish31/head-content-footer-static-website-using-react/precache-manifest.f6eb003379d55b6e26814cd5a2b67dfd.js",
+    "service-worker.js": "/subish31/head-content-footer-static-website-using-react/service-worker.js",
+    "static/css/main.034f6bdb.chunk.css.map": "/subish31/head-content-footer-static-website-using-react/static/css/main.034f6bdb.chunk.css.map",
+    "static/js/2.44e7fc68.chunk.js.LICENSE.txt": "/subish31/head-content-footer-static-website-using-react/static/js/2.44e7fc68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e558c68.js",
+    "static/js/2.44e7fc68.chunk.js",
+    "static/css/main.034f6bdb.chunk.css",
+    "static/js/main.52f9380a.chunk.js"
+  ]
+}
